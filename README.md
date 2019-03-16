@@ -1,6 +1,6 @@
 # file-browser
 
-Basic fs browsing with UI built with OM.
+Basic fs browsing with UI built using OM.
 
 ## Setup
 
